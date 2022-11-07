@@ -1,3 +1,3 @@
 # IRock
 Javascript basics
-Primeiras aulas de .js
+first class.
